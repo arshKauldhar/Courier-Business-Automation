@@ -1,11 +1,11 @@
 # Courier-Business-Automation
 Quicklink Logistics - Courier Business Automation System
 
-🚀 Project Overview
+#🚀 Project Overview
 
 Quicklink Logistics is a comprehensive Courier Business Automation System designed to streamline and optimize courier operations. The system aims to enhance efficiency, minimize errors, and provide seamless management of shipments, deliveries, and customer interactions.
 
-🔥 Features
+#🔥 Features
 
 📦 Shipment Management – Create, track, and update shipments efficiently.
 
@@ -21,7 +21,7 @@ Quicklink Logistics is a comprehensive Courier Business Automation System design
 
 📩 Email & SMS Notifications – Keep customers informed about their shipments.
 
-🛠 Tech Stack
+#🛠 Tech Stack
 
 Frontend: HTML, CSS, JavaScript
 
@@ -31,7 +31,7 @@ Database: Oracle SQL
 
 Deployment: Flask Server
 
-🎯 System Modules
+#🎯 System Modules
 
 User Management – Admin, Staff, and Customer login with role-based access.
 
@@ -45,14 +45,15 @@ Branch Management – Handling multiple courier hubs.
 
 Delivery Tracking – Assigning and monitoring deliveries in real-time.
 
-🏗 Interfaces Required
+#🏗 Interfaces Required
 
 Admin Panel – Manage users, shipments, payments, and reports.
 
 Customer Portal – Track shipments, view invoices, and request pickups.
 
 Staff Dashboard – Process shipments, update statuses, and manage deliveries.
-🚀 Future Enhancements
+
+#🚀 Future Enhancements
 
 📌 Mobile app integration for better accessibility.
 
@@ -60,7 +61,7 @@ Staff Dashboard – Process shipments, update statuses, and manage deliveries.
 
 🤖 AI-powered route optimization for delivery efficiency.
 
-📩 Contact
+#📩 Contact
 
 For any queries or suggestions, reach out via:
 📧 Email: arshdeepsanghera2002@gmail.com🔗 LinkedIn:www.linkedin.com/in/arshdeep-kaur-568923266
